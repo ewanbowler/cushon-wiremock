@@ -1,0 +1,14 @@
+{
+  "status": "OK",
+  "data": [
+    {
+      "id": "f6a110be-eea5-47fa-94b5-b92d2fd4b51d",
+      "userId": "8e4ea43a-729a-4985-9dbf-c1b040aac898",
+      "fundId": "10be47de-335a-4f95-aa76-8bb0385aac0b",
+      "fundName": "Cushon Equities Fund",
+      "initialInvestmentValue": 2500000,
+      "investmentDate": "16/08/2023, 12:01:23",
+      "currentInvestmentValue": 2614256
+    }
+  ]
+}

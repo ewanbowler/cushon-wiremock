@@ -1,0 +1,30 @@
+{
+  "status": "OK",
+  "data": [
+    {
+      "id": "10be47de-335a-4f95-aa76-8bb0385aac0b",
+      "name": "Cushon Equities Fund",
+      "description": "A diversified fund focused on global equity markets, aiming for long-term growth by investing in a variety of high-performing sectors."
+    },
+    {
+      "id": "c4789012-f8b4-403a-9483-a6ffaa3ed64c",
+      "name": "Green Future Fund",
+      "description": "An eco-friendly investment option targeting renewable energy and sustainable companies to promote environmentally responsible growth."
+    },
+    {
+      "id": "2a179f83-bd1c-4c2c-b72a-55a015017a0b",
+      "name": "Tech Innovations Fund",
+      "description": "Focused on high-growth technology companies, this fund invests in sectors like AI, cloud computing, and cybersecurity."
+    },
+    {
+      "id": "bcf0bdb7-69ed-4a11-b4fe-56e0558ba191",
+      "name": "Global Bond Fund",
+      "description": "A bond-focused fund aiming to provide steady returns through investment in a balanced mix of international government and corporate bonds."
+    },
+    {
+      "id": "9e0b1bd1-68e7-4fef-bcb0-bbb25dfbbc01",
+      "name": "Emerging Markets Equity Fund",
+      "description": "This fund targets equities in emerging markets, providing access to high-growth potential regions such as Asia and Latin America."
+    }
+  ]
+}

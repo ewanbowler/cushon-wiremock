@@ -1,0 +1,17 @@
+networks:
+  test:
+
+services:
+  wiremock:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    expose:
+      - 8080
+    ports:
+      - "8080:8080"
+    command:
+      - --verbose
+      - --global-response-templating
+    networks:
+      test:

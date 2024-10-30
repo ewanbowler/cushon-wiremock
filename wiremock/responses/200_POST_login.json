@@ -1,0 +1,9 @@
+{
+  "status": "OK",
+  "data": {
+    "id": "8e4ea43a-729a-4985-9dbf-c1b040aac898",
+    "email": "joebloggs@example.com",
+    "firstName": "Joe",
+    "lastName": "Bloggs"
+  }
+}

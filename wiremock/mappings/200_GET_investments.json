@@ -1,0 +1,15 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPathTemplate": "/investments/user/{userId}"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "200_GET_investments.json",
+    "headers": {
+      "Access-Control-Allow-Origin": ["http://localhost:3000"],
+      "Access-Control-Allow-Methods": ["GET"],
+      "Access-Control-Allow-Headers": ["Content-Type"]
+    }
+  }
+}

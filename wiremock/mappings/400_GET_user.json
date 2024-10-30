@@ -1,0 +1,16 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPathPattern": "/user/.*"
+  },
+  "response": {
+    "status": 400,
+    "body": "Invalid ID",
+    "headers": {
+      "Access-Control-Allow-Origin": ["http://localhost:3000"],
+      "Access-Control-Allow-Methods": ["GET"],
+      "Access-Control-Allow-Headers": ["Content-Type"]
+    }
+  },
+  "priority": 2
+}
